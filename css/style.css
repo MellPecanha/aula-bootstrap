@@ -1,0 +1,29 @@
+body {
+    font: 15px Verdana, sans-serif;
+}
+
+.navbar {
+    padding-left: 20px;
+    background-color: peru;
+    color: bisque;
+}
+
+
+.margin {
+    padding-top: 5px;
+    padding-bottom: 15px;
+}
+
+.quem-somos, .servicos{
+    background-color: bisque;
+    color: peru;
+}
+
+.parceiros{
+    background-color: peru;
+    color: bisque;
+}
+
+.bg-footer{
+    background-color: peru;
+}
